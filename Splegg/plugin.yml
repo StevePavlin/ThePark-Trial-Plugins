@@ -1,0 +1,11 @@
+name: Splegg
+main: me.pavlin.Splegg
+version: 0.01
+
+commands:
+  reset:
+    description: Resets the arena.
+    usage: /reset
+  lobby:
+    description: Teleports the player to the lobby.
+    usage: /lobby    

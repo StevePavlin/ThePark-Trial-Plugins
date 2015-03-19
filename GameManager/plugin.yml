@@ -1,0 +1,8 @@
+name: GameManager
+main: me.pavlin.GameManager
+version: 0.01
+
+commands:
+  lobby:
+    description: Teleports the player to the lobby.
+    usage: /lobby    
